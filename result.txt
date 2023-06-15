@@ -1,0 +1,26 @@
+Question/Answers:
+
+
+1. How many goals have Messi scored so far? 
+
+-> 704
+
+2. What is Messi's most common goal-scoring position? 
+
+-> RW & CF (316)
+
+3. What is Messi's most common goal-scoring type (e.g., penalty, free kick, open play)? 
+
+-> Penalty (84) or Left-footed Shot (436)
+
+4. During which event have Messi Scored the most goals? 
+
+-> Group Stage (80)
+
+5. In which competition has Messi scored the most goals? 
+
+-> La Liga (474)
+
+6. Which team has Messi scored the most goals against? 
+
+-> Sevilla FC (38)
