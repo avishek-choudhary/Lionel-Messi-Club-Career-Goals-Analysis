@@ -37,7 +37,7 @@ This dataset was downloaded from Kaggle: https://www.kaggle.com/datasets/azminet
 
 ## Conclusion
 
-The project was successful in answering the set of questions about Lionel Messi's Club Career Goals performance. The results of the project can be found in result.txt file.
+The project was successful in answering the set of questions about Lionel Messi's Club Career Goals performance. The results of the project can be found in <a href="https://github.com/avishek09/Lionel-Messi-Club-Career-Goals-Analysis/blob/main/result.txt">result.txt</a> file.
 
 
 <!--## How to Contribute
