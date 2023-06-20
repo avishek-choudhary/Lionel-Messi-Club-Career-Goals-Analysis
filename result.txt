@@ -7,7 +7,7 @@ Question/Answers:
 
 2. What is Messi's most common goal-scoring position? 
 
--> RW & CF (316)
+-> RW(316) & CF(316)
 
 3. What is Messi's most common goal-scoring type (e.g., penalty, free kick, open play)? 
 
