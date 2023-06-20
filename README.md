@@ -10,7 +10,7 @@ This repository contains a dataset of Lionel Messi's Club Career Goals and a das
 
 ## Installation
 
-To run this project on your machine you need to install Microsoft Power BI: https://powerbi.microsoft.com/en-us/downloads/
+To run this project on your machine you need to install <a href="https://powerbi.microsoft.com/en-us/downloads/">Microsoft Power BI</a>.
 
 <!-- ## Usage
 
